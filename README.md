@@ -1,5 +1,5 @@
 # Data-Internship-Project
-Speech to Sign Language Convertor [ Deployed link : https://stockportfoli.netlify.app/]
+Speech to Sign Language Convertor [ Deployed link : (https://speechcon.netlify.app/)]
 System Workflow:
 
 Step-by-Step Flow:
